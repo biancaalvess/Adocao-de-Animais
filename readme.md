@@ -21,4 +21,4 @@ Um aplicativo simples e interativo de lista de tarefas desenvolvido com HTML, CS
    Para clonar o repositório, execute o comando abaixo no seu terminal:
 
    ```bash
-   git clone https://github.com/usuario/gerenciador-tarefas.git
+   git clone https://github.com/biancaalvess/Adocao-de-Animais
