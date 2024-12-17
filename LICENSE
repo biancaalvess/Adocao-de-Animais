@@ -1,11 +1,12 @@
-### Explicação:
 
-- **Título e Descrição**: Introduz o aplicativo e o que ele faz.
-- **Funcionalidades**: Lista as principais funcionalidades do aplicativo.
-- **Tecnologias Utilizadas**: Explica as tecnologias que foram usadas para o desenvolvimento.
-- **Como Usar**: Passo a passo para clonar o repositório e começar a usar o aplicativo.
-- **Exemplo de Uso**: Mostra um exemplo simples de como as tarefas apareceriam na interface.
-- **Contribuindo**: Um guia básico sobre como contribuir para o projeto.
-- **Licença**: Informa sobre a licença do projeto.
+### Explicação do README:
 
-Com esse modelo, seu README está bem estruturado e oferece todas as informações necessárias para quem for utilizar ou contribuir no seu projeto de gerenciamento de tarefas.
+1. **Título e Descrição**: Introduz o aplicativo e o que ele faz, enfatizando a funcionalidade de adoção de animais.
+2. **Funcionalidades**: Lista as principais funcionalidades do site, como visualização de animais, informações de adoção e o formulário de contato.
+3. **Tecnologias Utilizadas**: Explica as tecnologias usadas no desenvolvimento do projeto.
+4. **Como Usar**: Passo a passo para clonar o repositório e usar o aplicativo.
+5. **Exemplo de Uso**: Mostra como as informações dos animais seriam exibidas na interface.
+6. **Contribuindo**: Instruções sobre como contribuir para o projeto.
+7. **Licença**: Informações sobre a licença do projeto.
+
+Esse modelo segue o padrão de informações relevantes para quem for acessar o repositório e colaborar com o projeto de Adoção de Animais.
