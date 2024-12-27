@@ -1,3 +1,31 @@
+# Animal Adoption
+
+This is an interactive application developed with HTML, CSS, and JavaScript to facilitate animal adoption. The platform allows users to view animals available for adoption, track the adoption process, and connect with the responsible organization.
+
+## Features
+
+- **View Animals**: Displays a list of animals available for adoption, with details such as name, photo, age, and description.
+- **Adoption Information**: Provides information about the adoption process and requirements.
+- **Contact**: Allows users to contact the organization through a question form.
+- **Responsive**: The design adapts to different screen sizes, ensuring a good experience on both mobile and desktop devices.
+
+## Technologies Used
+
+- **HTML**: Structure of the page content.
+- **CSS**: Website styling and responsive layout.
+- **JavaScript**: Interactivity, such as displaying animals and submitting questions.
+
+## How to Use
+
+1. **Clone the Repository**
+
+   To clone the repository, run the command below in your terminal:
+
+   ```bash
+   git clone https://github.com/biancaalvess/Adocao-de-Animais.git
+
+
+
 # Adoção de Animais
 
 Este é um aplicativo interativo desenvolvido com HTML, CSS e JavaScript para facilitar a adoção de animais. A plataforma permite que os usuários conheçam animais disponíveis para adoção, acompanhem o processo de adoção e se conectem com a organização responsável.
